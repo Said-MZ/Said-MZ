@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Im Said Al-Zain, A Business Information Technology student studying at PSUT.
 
 
