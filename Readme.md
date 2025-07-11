@@ -5,7 +5,6 @@ Software Engineering Intern @ **ZenHR** 💻
 
 When I’m not coding, I’m probably sketching ideas, or overthinking my next side project.
 
-🌐 Find Me Online:
 
 ## 🌐 Find Me Online:
 [Portfolio](Said-mz.com) ・ [Instagram](https://instagram.com/feartfulz) ・ [LinkedIn](https://linkedin.com/in/said-mz) ・ [X / Twitter](https://x.com/saiid_mz)
