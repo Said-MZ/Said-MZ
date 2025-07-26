@@ -12,8 +12,6 @@ When I’m not coding, I’m probably sketching ideas, or overthinking my next s
 
 ## 🛠️ Tech Playground:
 
-## 🛠️ Tech Playground
-
 **Frontend**
 Next.js, React, Tailwind CSS, TypeScript, Framer Motion, Responsive Design
 
