@@ -12,12 +12,16 @@ When I’m not coding, I’m probably sketching ideas, or overthinking my next s
 
 ## 🛠️ Tech Playground:
 
-Frontend Development
-- Next.js, React.js, Tailwind CSS, JavaScript, TypeScript, Framer Motion, Responsive Web Design, SEO Optimization
-Backend Development
-- Node.js, Express.js, Ruby, Rails, Drizzle ORM, Prisma ORM, PostgreSQL, MongoDB, Supabase, REST APIs, LLM API Integration
-Tools & Deployment
-- AWS, Vercel, Git & GitHub, Automation Tools, NeonDB, Resend (Email API)
-Other Technical Skills
-- Python, Java, Technical Documentation, System Design Principles, Database Schema Design
+## 🛠️ Tech Playground
 
+**Frontend**
+Next.js, React, Tailwind CSS, TypeScript, Framer Motion, Responsive Design
+
+**Backend**
+Node.js, Express, Ruby on Rails, Drizzle ORM, REST APIs, LLM API Integration, PostgreSQL, MongoDB
+
+**DevOps / Tools**  
+AWS, Vercel, GitHub, Resend (Email API), Automation Tools
+
+**Other**  
+Python, Java, System Design, DB Schema Design, Technical Docs
