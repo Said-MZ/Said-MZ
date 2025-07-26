@@ -1,4 +1,4 @@
-# 🤙🏼 Hey, I’m Said Al-Zain
+# 🤙🏼 Hey, I’m Sai'd Al-Zain
 
 
 Software Engineering Intern @ **ZenHR** 💻
