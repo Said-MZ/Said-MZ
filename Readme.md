@@ -1,7 +1,7 @@
 # 🤙🏼 Hey, I’m Sai'd Al-Zain
 
 
-Software Engineering Intern @ **ZenHR** 💻
+Software Engineer L1 @ **ZenHR** 💻
 
 When I’m not coding, I’m probably sketching ideas, or overthinking my next side project.
 
